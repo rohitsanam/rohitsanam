@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:rohit.sanam@yahoo.in,7674041133
 - ⚡ Fun fact: Keep calm and Do Data Analysis 
 <hr>
-<img align = "left" alt = "Rohit Sanam Venkata Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohit-sanam&theme=algolia&show_icons=true" />
+<img align = "left" alt = "Rohit Sanam Venkata Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitsanam&theme=algolia&show_icons=true" />
