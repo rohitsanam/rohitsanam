@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 
 
 <hr>
-![coding demo](/Users/rohitsanam/Desktop/coding-freak.gif)
 <img align = "left" alt = "Rohit Sanam Venkata Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitsanam&theme=algolia&show_icons=true" />
