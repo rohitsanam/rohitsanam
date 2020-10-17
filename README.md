@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Keep calm and Do Data Analysis 
 
 
-                ![](/Users/rohitsanam/Desktop/coding-freak.gif)
+                [](/Users/rohitsanam/Desktop/coding-freak.gif)
 
 <hr>
 <img align = "left" alt = "Rohit Sanam Venkata Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitsanam&theme=algolia&show_icons=true" />
