@@ -1,4 +1,5 @@
-### Hi there I'm Rohit Sanam Venkata('https://www.linkedin.com/in/rohitsanamvenkata/') 👋
+ ***Hi there I'm Rohit Sanam Venkata 👋***
+
 
 <hr>
 
@@ -18,8 +19,11 @@ Here are some ideas to get you started:
 <img align = "left" alt = "Rohit Sanam Venkata Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitsanam&theme=algolia&show_icons=true" />
 
 
-### ***Spotify Playing :*** 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="isaiah Spotify Playing" width="350" />](https://www.spotify.com/in/account/overview/?utm_source=play&utm_campaign=wwwredirect)
+
+
+
+
+
 
 
 
@@ -31,7 +35,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.kaggle.com/rohitsanam">
-  <img src="https://img.shields.io/badge/-kaggle-blue?style=for-the-badge&labelColor=black&logo=kaggle&logoColor=61DBFB)" alt="kaggle" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/-kaggle-blue?style=for-the-badge&labelColor=black&logo=kaggle&logoColor=61DBFB)" alt="kaggle" style="vertical-align:top; margin:4px">
+</a>&nbsp;&nbsp;&nbsp; 
 
 
 <a href="https://www.hackerrank.com/rohit_sanam">
