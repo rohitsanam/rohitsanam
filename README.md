@@ -1,7 +1,5 @@
- ***Hi there I'm Rohit Sanam Venkata 👋***
-
-
-
+ ***Hi there I'm Rohit Sanam Venkata***(https://www.linkedin.com/in/rohitsanamvenkata) 👋
+<img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently Pursuing PG diploma Data Science course at manipal
@@ -15,15 +13,6 @@ Here are some ideas to get you started:
 
 
 <img align = "left" alt = "Rohit Sanam Venkata Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitsanam&theme=algolia&show_icons=true" />
-
-
-
-
-
-
-
-
-
 
 ### ***Connect with me :***
 
