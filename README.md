@@ -1,5 +1,5 @@
- ***Hi there I'm Rohit Sanam Venkata***(https://www.linkedin.com/in/rohitsanamvenkata) 👋
-<img align="right" alt="GIF" src="https://media.giphy.com/media/l4JzdwJ33hz12Gw6s/giphy.gif" />
+ ***Hi there I'm Rohit Sanam Venkata (https://www.linkedin.com/in/rohitsanamvenkata)*** 👋
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently Pursuing PG diploma Data Science course at manipal
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<img align = "left" alt = "Rohit Sanam Venkata Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitsanam&theme=algolia&show_icons=true" />
+<img align = "centre" alt = "Rohit Sanam Venkata Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitsanam&theme=algolia&show_icons=true" />
 
 
 
