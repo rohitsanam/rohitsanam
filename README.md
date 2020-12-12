@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Keep calm and Do Data Analysis 
 
 
-<img align = "left" alt = "Rohit Sanam Venkata Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitsanam&theme=algolia&show_icons=true" />
-
 ### ***Connect with me :***
 
 <a href="https://www.linkedin.com/in/rohitsanamvenkata">
@@ -54,5 +52,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://matplotlib.org/_static/logo2_compressed.svg"></code>
 <code><img height="20" src="https://cdns.tblsft.com/sites/all/themes/tabwat/logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<img align = "left" alt = "Rohit Sanam Venkata Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitsanam&theme=algolia&show_icons=true" />
+
 
 
