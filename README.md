@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <hr>
 <img align = "left" alt = "Rohit Sanam Venkata Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitsanam&theme=algolia&show_icons=true" />
 
-![***Rohit's GitHub Stats***](https://github-readme-stats.vercel.app/api?username=ISAIAH-Git&count_private=true&theme=gotham)   
-
 
 ### ***Spotify Playing :*** 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="isaiah Spotify Playing" width="350" />](https://www.spotify.com/in/account/overview/?utm_source=play&utm_campaign=wwwredirect)
