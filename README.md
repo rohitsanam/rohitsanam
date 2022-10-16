@@ -2,6 +2,7 @@
  
 Here are some ideas to get you started:
 
+- I am currently working as a Data Scientist.
 - 🔭 I’m currently Pursuing PG diploma Data Science course at manipal
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Big Data, Artificial Intelligence,SQL....
 - 👯 I’m looking to collaborate Data Analyst, Data scientist....
